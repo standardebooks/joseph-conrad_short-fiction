@@ -109,21 +109,73 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-smile-of-fortune.xhtml" id="a-smile-of-fortune.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/amy-foster.xhtml" id="amy-foster.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-anarchist.xhtml" id="an-anarchist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-outpost-of-progress.xhtml" id="an-outpost-of-progress.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/because-of-the-dollars.xhtml" id="because-of-the-dollars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/falk.xhtml" id="falk.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/freya-of-the-seven-isles.xhtml" id="freya-of-the-seven-isles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gaspar-ruiz.xhtml" id="gaspar-ruiz.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/heart-of-darkness.xhtml" id="heart-of-darkness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/il-conde.xhtml" id="il-conde.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/part-3.xhtml" id="part-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/karain.xhtml" id="karain.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prince-roman.xhtml" id="prince-roman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-black-mate.xhtml" id="the-black-mate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-brute.xhtml" id="the-brute.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-duel.xhtml" id="the-duel.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-idiots.xhtml" id="the-idiots.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-informer.xhtml" id="the-informer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-inn-of-the-two-witches.xhtml" id="the-inn-of-the-two-witches.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lagoon.xhtml" id="the-lagoon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-partner.xhtml" id="the-partner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-planter-of-malata.xhtml" id="the-planter-of-malata.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-return.xhtml" id="the-return.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-secret-sharer.xhtml" id="the-secret-sharer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale.xhtml" id="the-tale.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-warriors-soul.xhtml" id="the-warriors-soul.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/tomorrow.xhtml" id="tomorrow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/typhoon.xhtml" id="typhoon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/youth.xhtml" id="youth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="part-1.xhtml"/>
-		<itemref idref="part-2.xhtml"/>
-		<itemref idref="part-3.xhtml"/>
+		<itemref idref="the-idiots.xhtml"/>
+		<itemref idref="the-lagoon.xhtml"/>
+		<itemref idref="an-outpost-of-progress.xhtml"/>
+		<itemref idref="karain.xhtml"/>
+		<itemref idref="the-return.xhtml"/>
+		<itemref idref="youth.xhtml"/>
+		<itemref idref="heart-of-darkness.xhtml"/>
+		<itemref idref="amy-foster.xhtml"/>
+		<itemref idref="typhoon.xhtml"/>
+		<itemref idref="tomorrow.xhtml"/>
+		<itemref idref="falk.xhtml"/>
+		<itemref idref="an-anarchist.xhtml"/>
+		<itemref idref="gaspar-ruiz.xhtml"/>
+		<itemref idref="the-brute.xhtml"/>
+		<itemref idref="the-informer.xhtml"/>
+		<itemref idref="the-black-mate.xhtml"/>
+		<itemref idref="the-duel.xhtml"/>
+		<itemref idref="il-conde.xhtml"/>
+		<itemref idref="the-secret-sharer.xhtml"/>
+		<itemref idref="a-smile-of-fortune.xhtml"/>
+		<itemref idref="the-partner.xhtml"/>
+		<itemref idref="prince-roman.xhtml"/>
+		<itemref idref="freya-of-the-seven-isles.xhtml"/>
+		<itemref idref="the-inn-of-the-two-witches.xhtml"/>
+		<itemref idref="the-planter-of-malata.xhtml"/>
+		<itemref idref="because-of-the-dollars.xhtml"/>
+		<itemref idref="the-warriors-soul.xhtml"/>
+		<itemref idref="the-tale.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
