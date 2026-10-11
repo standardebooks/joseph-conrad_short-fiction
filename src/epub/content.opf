@@ -92,36 +92,36 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">67</meta>
-		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
+		<meta id="collection-1-entry-1" property="schema:hasPart" refines="#collection-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">Heart of Darkness</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">32</meta>
-		<meta property="schema:hasPart" refines="#collection-2" id="collection-2-entry-1">schema:hasPart</meta>
+		<meta id="collection-2-entry-1" property="schema:hasPart" refines="#collection-2">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-2-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-2-entry-1">Heart of Darkness</meta>
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">21</meta>
-		<meta property="schema:hasPart" refines="#collection-3" id="collection-3-entry-1">schema:hasPart</meta>
+		<meta id="collection-3-entry-1" property="schema:hasPart" refines="#collection-3">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-3-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-3-entry-1">Heart of Darkness</meta>
 		<meta id="collection-4" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">9</meta>
-		<meta property="schema:hasPart" refines="#collection-4" id="collection-4-entry-1">schema:hasPart</meta>
+		<meta id="collection-4-entry-1" property="schema:hasPart" refines="#collection-4">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-4-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-4-entry-1">Heart of Darkness</meta>
 		<meta id="collection-5" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-5">set</meta>
-		<meta property="schema:hasPart" refines="#collection-5" id="collection-5-entry-1">schema:hasPart</meta>
+		<meta id="collection-5-entry-1" property="schema:hasPart" refines="#collection-5">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-5-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-5-entry-1">Heart of Darkness</meta>
 		<meta id="collection-6" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-6">set</meta>
 		<meta property="group-position" refines="#collection-6">41</meta>
-		<meta property="schema:hasPart" refines="#collection-6" id="collection-6-entry-1">schema:hasPart</meta>
+		<meta id="collection-6-entry-1" property="schema:hasPart" refines="#collection-6">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-6-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-6-entry-1">Heart of Darkness</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
@@ -207,7 +207,7 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>	
+		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
