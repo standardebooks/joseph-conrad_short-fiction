@@ -172,8 +172,10 @@
 		<link href="https://id.loc.gov/authorities/names/n79054067.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">William Michaud von Vevey</dc:contributor>
-		<meta property="file-as" refines="#artist">Vevey, William Michaud von</meta>
+		<dc:contributor id="artist">Henry Scott Tuke</dc:contributor>
+		<meta property="file-as" refines="#artist">Tuke, Henry Scott</meta>
+		<link href="https://en.wikipedia.org/wiki/Henry_Scott_Tuke" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/nr89015739.html" refines="#artist" rel="schema:sameAs"/>		
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
