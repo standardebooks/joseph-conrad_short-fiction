@@ -239,6 +239,7 @@
 		<item href="text/the-planter-of-malata.xhtml" id="the-planter-of-malata.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-return.xhtml" id="the-return.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-secret-sharer.xhtml" id="the-secret-sharer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sisters.xhtml" id="the-sisters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tale.xhtml" id="the-tale.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-warriors-soul.xhtml" id="the-warriors-soul.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -278,7 +279,8 @@
 		<itemref idref="the-planter-of-malata.xhtml"/>
 		<itemref idref="because-of-the-dollars.xhtml"/>
 		<itemref idref="the-warriors-soul.xhtml"/>
-		<itemref idref="the-tale.xhtml"/>
+		<itemref idref="the-tale.xhtml"/>		
+		<itemref idref="the-sisters.xhtml"/>		
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
