@@ -162,8 +162,8 @@
 		<!-- The Sisters -->
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190353</dc:source>
 		<dc:source>https://archive.org/details/sim_bookman-a-review-of-books-and-life_1928-01_66_5</dc:source>
-		<meta property="schema:wordCount">38496</meta>
-		<meta property="schema:educationalLevel">71.44</meta>
+		<meta property="schema:wordCount">454904</meta>
+		<meta property="schema:educationalLevel">72.05</meta>
 		<link href="https://en.wikipedia.org/wiki/Joseph_Conrad_bibliography#Collections_of_novellas_and_short_stories" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
